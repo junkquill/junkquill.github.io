@@ -3,31 +3,26 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<div class="row">
+	<div class="col-sm-5">
+	<img  class="img-circle avatar" alt="Deewang Bhamidipati" src="img/bdeewang.jpg">
+	<div class="col2-md-8 col-md-offset-3">
+        <p><div class="btn-group btn-group">		
+			<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-primary">Curriculum Vitae</a>
+		</div></p>
+    </div>
+	</div>
 
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+	<div itemscope itemtype="https://data-vocabulary.org/Person" class="col-sm-7">
+	<p class="lead">Hey! I'm <span itemprop="name">Deewang Bhamidipati</span>, a 4th year graduate student in mathematics at the University of California, Santa Cruz.<br><small><small>(Deewang is pronounced as "thee-waang".)</small></small></p>
 
-    {{ post.content }}
-  </article>
-  {% endfor %}
-</div>
+	<p>My research interests lie broadly in number theory and its relation with algebraic geometry and topology; at the moment, I am counting interesting things. My advisor is <a href="http://martyweissman.com/">Martin Weissman</a>. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, diversity and justice in the mathematics community.
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | relative_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: relative_url }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
+		<br><br>
+		Before coming to UC Santa Cruz I received my M.S. in Mathematics from the <a href="https://math.hse.ru/en/">Higher School of Economics</a>, where I wrote my <a href="https://www.hse.ru/en/edu/vkr/296285338">master's thesis</a> under <a href="https://www.hse.ru/en/org/persons/160474191">Vadim Vologodsky</a>; and my B.S. in Mathematics, with a specialization in applied algebra, from <a href="https://math.snu.edu.in/">Shiv Nadar University</a>.
+
+		<br><br>
+		email: bdeewang [AT] ucsc [DOT] edu
+		</p>
+	</div>
 </div>
