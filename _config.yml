@@ -43,6 +43,5 @@ version: 3.0.0
 nav:
   - title: Blog
     url: /archive
-
-  - title: About
-    url: /about
+    - title: About
+      url: /about
