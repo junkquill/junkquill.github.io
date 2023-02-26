@@ -41,7 +41,14 @@ version: 3.0.0
 
 # Navbar page list
 nav:
-  - title: Blog
+  - title: Research
     url: /archive
-    - title: About
-      url: /about
+    
+  - title: Teaching
+    url: /about
+    
+  - title: Activities
+    url: /about
+    
+  - title: Links
+    url: /about
