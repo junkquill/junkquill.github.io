@@ -1,21 +1,21 @@
 # Customize these with your info 
 
-title: "Seredyna, a Jekyll Template" 
-author: Your Name
-email: "exmaple@exmple.com"
-description: "A template created by Derek Kedziora"
-github: derekkedziora
-timezone: Europe/Amsterdam
-url: https://seredyna.netlify.app/
+title: "Deewang, a mathematician" 
+author: Deewang Bhamidipati
+email: "bdeewang@gmail.com"
+description: "Deewang's website"
+github: bdeewang
+timezone: USA/Pacific
+url: https://bdeewang.com/
 language: en_US
 
 # social images
 
-favicon: /static/social-media-images/borshch-and-salo-favicon.jpeg
-twitter: "@good-luck-twitter-existing-in-a-few-years"
-social-media-image-url: /static/social-media-images/borshch-and-salo.jpeg
-twitter-card-image: do.jpg
-iOS-icon: /static/social-media-images/borshch-and-salo-ios.jpeg
+favicon: /static/favicon/bdeewang-favicon.jpeg
+# twitter: "@good-luck-twitter-existing-in-a-few-years"
+# social-media-image-url: /static/social-media-images/borshch-and-salo.jpeg
+# twitter-card-image: do.jpg
+iOS-icon: /static/favicon/bdeewang-favicon.jpeg
 
 # leave these unless you are more familiar with jekyll settings
 
