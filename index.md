@@ -9,13 +9,13 @@ index: true
 Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My first name is pronounced as *dee-waang*. My advisor is [Martin Weissman](http://martyweissman.com/).
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
 
+My research interests lie broadly in number theory and its relation with algebraic geometry and topology.
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a>
+
+I am currently teaching a class on Proofs.
 <a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
 
-<!-- My research interests lie broadly in number theory and its relation with algebraic geometry and topology. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, diversity and justice in the mathematics community. -->
-
-Here's my <a class="btn btn-default" onclick="copyEmailtoClipboard('{{site.email}}')">Copy address</a>
-<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</a>
+Here's my <a class="btn btn-default" href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</a>
 
 <!-- Add a one line intro and link to your about page. 
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
