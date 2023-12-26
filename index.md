@@ -15,7 +15,7 @@ My research interests lie broadly in number theory and its relation with algebra
 I am currently teaching a class on Proofs.
 <a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
 
-Here's my <a class="btn btn-default">[Curriculum Vitae](https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing)</a>
+Here's my <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a>
 
 <!-- Add a one line intro and link to your about page. 
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
