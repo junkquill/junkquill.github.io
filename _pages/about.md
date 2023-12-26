@@ -1,6 +1,6 @@
 ---
 title: About
-description: "Derek Kedziora is a UX writer, content strategist, geek, tinkerer and avid reader."  
+description: "Deewang is a mathematician-in-training."  
 nav: custom
 custom-nav: 
     - '<a href="/now" title="Now">Now</a>&nbsp;|&nbsp;'
@@ -11,8 +11,6 @@ permalink: /about
 
 {% include about-picture-img.html %}
 
-Write up some stuff about yourself here. 
-
-Add a few pictures of yourself that randomly display on each page load and click by going to the `_includes/about-picture-script.html` file.
+I am from India. Before coming to UC Santa Cruz I received my M.S. in Mathematics from the [Higher School of Economics](https://math.hse.ru/en/) in Moscow, where I wrote my [master's thesis](https://www.hse.ru/en/edu/vkr/296285338) under [Vadim Vologodsky](https://www.hse.ru/en/org/persons/160474191); and my B.S. in Mathematics, with a specialization in applied algebra, from [Shiv Nadar University](https://math.snu.edu.in/) in India. 
 
 {% include about-picture-script.html %}
