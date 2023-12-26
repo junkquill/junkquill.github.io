@@ -12,7 +12,7 @@ My research interests lie broadly in number theory and its relation with algebra
 
 Before coming to UC Santa Cruz I received my M.S. in Mathematics from the [Higher School of Economics](https://math.hse.ru/en/), where I wrote my [master's thesis](https://www.hse.ru/en/edu/vkr/296285338) under [Vadim Vologodsky](https://www.hse.ru/en/org/persons/160474191); and my B.S. in Mathematics, with a specialization in applied algebra, from [Shiv Nadar University](https://math.snu.edu.in/). 
 
-Here's my <div class="tag-list copy-buttons"><button class="btn btn-default"> <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</a></button></div>
+Here's my <div class="tag-list copy-buttons"> <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</a></div>
 <!-- <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</a> -->
 
 Add a one line intro and link to your about page. 
