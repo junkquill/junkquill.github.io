@@ -15,8 +15,10 @@ Before coming to UC Santa Cruz I received my M.S. in Mathematics from the [Highe
 Here's my <code class="language-plaintext highlighter-rouge"><a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</a></code>
 
 <div class="tag-list copy-buttons">
-
-<button class="btn btn-default"><a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</a></button>
+<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</a>
+<!-- <button class="btn btn-default"> -->
+	<!-- <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</a> -->
+<!-- </button> -->
 
 </div>
 
