@@ -4,7 +4,7 @@ layout: index
 index: true
 ---
 
-{% include about-picture-img.html %}
+{% include picture-img.html %}
 
 This is a template for the theme I call *seredyna*, which means medium in Ukrainian. This isn’t a minimalist theme, but it’s also not overloaded. It’s middlism. 
 

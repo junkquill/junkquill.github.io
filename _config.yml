@@ -62,9 +62,9 @@ collections:
 plugins:
   - jekyll-feed
 
-feed:
-  posts_limit: 25
-  categories:
-    - essays
-    - notes
-    - now
+# feed:
+  # posts_limit: 25
+  # categories:
+    # - essays
+    # - notes
+    # - now
