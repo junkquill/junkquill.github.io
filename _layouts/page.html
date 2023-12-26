@@ -1,8 +1,27 @@
----
-layout: default
----
+{%- include head-matter.html -%}
+{%- include pretty-numbers.html -%}
 
-<article class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
-</article>
+<body>
+
+<main>
+{%- unless page.og-type == "website" -%}<article>{%- endunless -%}
+
+<header>
+	<h1 class="index-title">{{ page.title }}</h1>
+	{%- unless page.nav == false -%}
+	<nav>
+		{%- include page-nav.html -%}
+	</nav>
+	{%- endunless -%}
+</header>
+
+{{ content }}
+
+{%- unless page.og-type == "website" -%}</article>{%- endunless -%}
+</main>
+
+{%- include footer.html -%}
+
+</body>
+
+</html>

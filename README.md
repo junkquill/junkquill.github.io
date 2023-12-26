@@ -1,128 +1,45 @@
-# Dark Poole
+# Seredyna, a Jekyll Template 
 
-![Dark Poole](https://user-images.githubusercontent.com/13270895/89133355-26b3af80-d4e9-11ea-81cd-eacaa9c78320.png)
+This has everything you need to get started using my personal site, [derekkedziora.com](https://derekkedziora.com), as a template for your own Jekyll site. 
 
-Dark Poole is a permanent dark theme of the Poole theme by [@mdo](https://github.com/mdo). I made the theme darker, inspired by [Derek Kedziora's site](https://derekkedziora.com/). Unlike default Poole that utilizes CSS media queries to activate dark mode, the theme will stay dark regardless of the user's preference.
+You can view this template live via Netlify at [https://seredyna.netlify.app](https://seredyna.netlify.app). I use Netlify because of the way GitHub Pages works breaks relative URLs unless you have a custom domain. 
 
-- I added a navbar that is easily customizable. Check out [Development](#development) to see how.
-- I also got rid of the "tagline" in the navbar. I think it looks cleaner without it.
-- Finally, I changed the default font size to 20px. I have 20/20 vision and still thought the original font size was too small.
+I’ve removed all of my information and content, included some examples and added a bit of documentation. It’s not a true theme, so will require some basic coding knowledge to adapt it to your needs. 
 
-That's it! I tried to be least intrusive as possible to the Poole code base.
+## Getting started 
 
-**I noticed that Poole's documentation is slightly outdated and misleading. This documentation will try to address most, if not all, of these issues.**
+1. Add your own info in the `_config` file 
+2. Read the posts to understand how it works 
+3. Add your own pictures in `_includes/about-picture-script.html`
 
----
+## Structure 
 
-## Contents
+This is an RSS first blog and microblog. 
 
-- [Usage](#usage)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+Posts with the category `rss-club` will **only** be published via the RSS feed. 
 
-## Usage
+By default only 10 notes are displayed on the site at a time, although the permalinks to older notes don’t expire. This allows the site to stay fresh and not overwhelming without breaking links and allows you to still have easy access to older notes. 
 
-### 1. Install dependencies
+`/now` will display the most recent post with the category `now`. 
 
-Poole is built on Jekyll and uses its built-in SCSS compiler to generate our CSS. Before getting started, you'll need to install the Jekyll gem and related dependencies:
 
-```bash
-$ gem install jekyll jekyll-gist jekyll-sitemap jekyll-seo-tag
-```
+## Blocked from Google by default 
 
-### 2. Install bundler
+The main page, about, portfolio page and blog posts under the category `essays` are all visible to search engines by default. My assumption is this is the sort of evergreen content that you want to display to world and be found by.
 
-You must have bundler installed. If you already have bundler installed, please skip this step.
+Notes and rss-club posts are blocked from search engines by default. These are more experimental posts that are meant to be more private and fleeting. Not everything needs to be remembered until the end of the internet. 
 
-```bash
-# Update Rubygems
-$ gem update --system
-# Update bundler
-$ gem install bundler
-```
+If you don’t want to use these defaults, move pages from the `_no-index` folder to the `_pages` folder and adjust the conditional `no-index` in the `_config` file and in `_includes/head-matter.html`
 
-### 3. Running locally
 
-To see your Jekyll site with Poole applied, start a Jekyll server. In Terminal, from `/dark-poole` (or whatever your Jekyll site's root directory is named):
+## To do 
 
-```bash
-$ bundle exec jekyll serve
-```
+- [ ] I’m still not happy with the internal navigation, want to clean it up a bit 
+- [ ] Add a bit more clear documentation about social images 
+- [ ] More detailed documentation about the now posts 
 
-Open <http://localhost:4000> in your browser, and voilà.
+## Creative Commons 0 
 
-### 4. Serving it up
+I release all of the code and content of this repository under the [Creative Commons Zero](https://creativecommons.org/publicdomain/zero/1.0/) license. You’re free to copy, reuse, modify or do whatever you want with it. 
 
-If you host your code on GitHub, you can use [GitHub Pages](https://pages.github.com) to host your project.
-
-1. Fork this repo and switch to the `gh-pages` branch.
-1. If you're [using a custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages), modify the `CNAME` file to point to your new domain.
-1. If you're not using a custom domain name, **modify the `url` in `_config.yml`** to point to your GitHub Pages URL. Example: for a site hosted at `username.github.io`, use `http://username.github.io`.
-1. If you want to use your repo name as a base url, **set the `url`** to your repo link and **set the `baseurl`** to your repo name in **`_config.yml`**. Example: for site hosted on `https://username.github.io/dark-poole`, set `url` as `https://username.github.io/dark-poole` and `baseurl` as `/dark-poole`.
-1. Done! Head to your GitHub Pages URL or custom domain.
-
-No matter your production or hosting setup, be sure to verify the `baseurl` option file and `CNAME` settings. Not applying this correctly can mean broken styles on your site.
-
-### 5. Pagination for sites with base urls
-
-If you are using a base url for your site, (for example, hosted on `https://username.github.io/dark-poole`) you have to make some changes to get jekyll-pagination to work correctly:
-
-In `_config.yml`, add this line:
-
-```yaml
-paginate_path: "/baseurl/page:num/"
-```
-
-In `archive.md`, add `{{ site.baseurl }}` before `{{ post.url }}`
-
-```html
-<!-- Add "{{ site.baseurl }}" -->
-<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-```
-
-In `index.html`, remove the `prepend:`:
-
-```html
-<!-- Remove "prepend:" in "prepend: relative_url" -->
-<a
-  class="pagination-item newer"
-  href="{{ paginator.previous_page_path | relative_url }}"
-  >Newer</a
->
-```
-
-## Development
-
-Poole has two branches, but only one is used for active development.
-
-- `master` for development. **All pull requests should be to submitted against `master`.**
-- `gh-pages` for hosted demo **Please avoid using this branch.**
-
-CSS is handled via Jeykll's built-in Sass compiler. Source Sass files are located in `_sass/`, included into `styles.scss`, and compile to `styles.css`.
-
-### Customize Navbar
-
-You can easily customize the navbar by tweaking the `_config.yml` file. Simply change the title and url of each of the nav elements, or add more. The order will be preserved in the site.
-
-```yaml
-nav:
-  - title: Blog
-    url: /archive
-
-  - title: About
-    url: /about
-```
-
-## Author
-
-**Mark Otto**
-
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+You don’t have to attribute it, but it would be nice to add a link to [my site](https://derekkedziora.com) or this repo.  

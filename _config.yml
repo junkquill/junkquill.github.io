@@ -1,54 +1,70 @@
-# Setup
-title: Deewang Bhamidipati
-url: junkquill.github.io
-paginate: 1
-baseurl: ""
-permalink: pretty
+# Customize these with your info 
 
-# Gems
+title: "Seredyna, a Jekyll Template" 
+author: Your Name
+email: "exmaple@exmple.com"
+description: "A template created by Derek Kedziora"
+github: derekkedziora
+timezone: Europe/Amsterdam
+url: https://seredyna.netlify.app/
+language: en_US
+
+# social images
+
+favicon: /static/social-media-images/borshch-and-salo-favicon.jpeg
+twitter: "@good-luck-twitter-existing-in-a-few-years"
+social-media-image-url: /static/social-media-images/borshch-and-salo.jpeg
+twitter-card-image: do.jpg
+iOS-icon: /static/social-media-images/borshch-and-salo-ios.jpeg
+
+# leave these unless you are more familiar with jekyll settings
+
+highlighter: rouge
+markdown: kramdown
+parse_block_html: false
+show_drafts: true
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      blogpost: true
+      layout: post
+      og-type: article
+      social-media-image: false
+    
+  -    
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page 
+      social-media-image: false   
+
+  -    
+    scope:
+      path: ""
+      type: "no-index"
+    values:
+      layout: page
+      no-index: true
+      social-media-image: false
+
+collections:
+  pages:
+    output: true
+  no-index:
+    output: true
+  unlisted:
+    output: true
+
 plugins:
-  - jekyll-gist
-  - jekyll-paginate
-  - jekyll-seo-tag
+  - jekyll-feed
 
-# Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
-
-sass:
-  sass_dir: _sass
-  style: :compressed
-
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
-
-# Specify the author for blog posts
-author:
-  name: Deewang Bhamidipati
-  url: https://twitter.com/theewaang
-  email: bdeewang@gmail.com
-
-# Custom vars
-version: 3.0.0
-
-# Navbar page list
-nav:
-  - title: Research
-    url: /archive
-    
-  - title: Teaching
-    url: /about
-    
-  - title: Activities
-    url: /about
-    
-  - title: Links
-    url: /about
+feed:
+  posts_limit: 25
+  categories:
+    - essays
+    - notes
+    - now
