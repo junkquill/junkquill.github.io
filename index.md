@@ -6,9 +6,9 @@ index: true
 
 {% include about-picture-img.html %}
 
-Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My name is pronounced as *dee-waang bha-me-dee-pa-tea*.
+Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My first name is pronounced as *dee-waang*. My advisor is [Martin Weissman](http://martyweissman.com/).
 
-My research interests lie broadly in number theory and its relation with algebraic geometry and topology. My advisor is [Martin Weissman](http://martyweissman.com/). I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, diversity and justice in the mathematics community.
+My research interests lie broadly in number theory and its relation with algebraic geometry and topology. I am passionate about mathematics pedagogy, and communicating mathematics to a general audience. I am committed to promoting inclusivity, diversity and justice in the mathematics community.
 
 Before coming to UC Santa Cruz I received my M.S. in Mathematics from the [Higher School of Economics](https://math.hse.ru/en/), where I wrote my [master's thesis](https://www.hse.ru/en/edu/vkr/296285338) under [Vadim Vologodsky](https://www.hse.ru/en/org/persons/160474191); and my B.S. in Mathematics, with a specialization in applied algebra, from [Shiv Nadar University](https://math.snu.edu.in/). 
 
