@@ -12,7 +12,8 @@ My research interests lie broadly in number theory and its relation with algebra
 
 Before coming to UC Santa Cruz I received my M.S. in Mathematics from the [Higher School of Economics](https://math.hse.ru/en/), where I wrote my [master's thesis](https://www.hse.ru/en/edu/vkr/296285338) under [Vadim Vologodsky](https://www.hse.ru/en/org/persons/160474191); and my B.S. in Mathematics, with a specialization in applied algebra, from [Shiv Nadar University](https://math.snu.edu.in/). 
 
-Here's my <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</a>
+Here's my <button class="btn btn-default" href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</button>
+<!-- <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing">Curriculum Vitae</a> -->
 
 Add a one line intro and link to your about page. 
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
@@ -34,6 +35,16 @@ Email’s the best way to get in touch: **{{ site.email }}**
 
 <a href="mailto:{{site.email}}">Send email</a>
 </div>
+
+<script>
+
+// copy email to clipboard
+
+function copyEmailtoClipboard() {
+    navigator.clipboard.writeText((arguments[0]));
+}
+
+</script>
 
 <!-- Add you Mastodon handle here if you want to verify it
 	
