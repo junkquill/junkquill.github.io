@@ -8,6 +8,7 @@ index: true
 
 Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My first name is pronounced as *dee-waang*. My advisor is [Martin Weissman](http://martyweissman.com/).
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
+
 <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a>
 <!-- <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="internal-link quarter-line-space">View my CV&nbsp;→</a> -->
 
@@ -35,13 +36,14 @@ Keep your about page about you rather than your job with a portfolio page.
 <a href="/portfolio" class="internal-link quarter-line-space">View my portfolio&nbsp;→</a> -->
 
 <details>
-	<summary> In Winter 2024, I am</summary>
+	<summary> In Winter 2024, I am also</summary>
 
-* teaching MATH 100: Intro to Proofs.
-* a [Graduate Pedagogy Fellow](https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/).
-* co-organising the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/).
-* attending the [Arizona Winter School](https://swc-math.github.io/aws/2024/index.html).
-* visiting [AIM](https://aimath.org/programs/squares/).
+<ul>
+	<li> a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/">Graduate Pedagogy Fellow</a>.</li>
+	<li> co-organising the <a href="https://sites.google.com/ucsc.edu/drp-math/">Directed Reading Program</a>.</li>
+	<li> attending the <a href="https://swc-math.github.io/aws/2024/index.html">Arizona Winter School</a>.</li>
+	<li> visiting <a href="https://aimath.org/programs/squares/">AIM</a>.</li>
+</ul>	
 
 </details>
 
