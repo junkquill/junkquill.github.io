@@ -41,7 +41,7 @@ permalink: /activities
 <li> A Course in Arithmetic by J.-P.Serre &#9733;, <small>Winter & Summer 2020</small></li>
 
 </ul>
-
+<br>
 <small>&#9733; organiser or co-organiser</small>
 </details>
 
@@ -56,36 +56,27 @@ permalink: /activities
     Organiser, <small>co-organised with Vaibhav Sutrave and David Rubinstein</small>
     <a href="https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf" class="internal-link quarter-line-space">Seminar notes&nbsp;→</a></li>
 
-<li> <b>Category Theory Learning Seminar</b>, <a href="https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf" class="internal-link quarter-line-space">Seminar notes&nbsp;→</a><br>
-    Organiser, <small>co-organised with Vaibhav Sutrave and David Rubinstein</small></li>
+<li> <b>Graduate Colloquium</b>, <small>Fall 2020 - Spring 2022</small><br>
+    Organiser, <small>co-organised with David Rubinstein</small></li>
 
-<li> MATH 288B <b>Pedagogy of Mathematics (for GSIs)</b>, <small>Winter 2023</small></li>
-
-<li> MATH 19A <b>Calculus for Sci., Eng., and Math.</b>, <small>Fall 2022</small></li>
-
-<li> MATH 11A <b>Calculus with Applications</b>, <small>Winter 2022</small></li>
-
-<li> MATH 111T <b>Algebra</b>, <small>Spring 2021</small></li>
-
-<li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2021</small></li>
-
-<li> MATH 3 <b>Precalculus</b>, <small>Spring 2020</small></li>
-
-<li> MATH 181 <b>History of Mathematics</b>, <small>Winter 2020</small></li>
-
-<li> MATH 3 <b>Precalculus</b>, <small>Fall 2019</small></li>
-
+<li> <b>Undergraduate Colloquium</b>, <small>Spring 2022</small><br>
+    Organiser, <small>as a member of AWM EC</small></li>
 </ul>
 </details>
 
-### Shiv Nadar University
+<!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b>Teaching Assistant</b></summary>
+    <summary><b>Departmental Service</b></summary>
 
 <ul style="line-height:180%">
 
-<li> MAT260 <b>Linear Algebra</b>, <small>Fall 2015</small></li>
+<li> <b>Head TA</b>, Mathematics Department<br> Administrative <small>(July 2023 - <em>present</em>), Mentorship & Support (July 2022 - July 2023)</small></li>
 
+<li> <b>Graduate Colloquium</b>, <small>Fall 2020 - Spring 2022</small><br>
+    Organiser, <small>co-organised with David Rubinstein</small></li>
+
+<li> <b>Undergraduate Colloquium</b>, <small>Spring 2022</small><br>
+    Organiser, <small>as a member of AWM EC</small></li>
 </ul>
 </details>
