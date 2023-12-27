@@ -28,7 +28,9 @@ permalink: /teaching
 
 <li> MATH 103A <b>Complex Analysis</b>, <small>Spring 2022</small></li>
 
-<li> MATH 110 <b>Introduction to Number Theory</b>, <small>Fall 2021</small></li>
+<li> MATH 110 <b>Introduction to Number Theory</b>, <small>Fall 2021</small><br>
+<a href="https://github.com/bdeewang/math110-f21-ucsc/raw/main/MATH%20110%20Lecture%20Notes%2C%20Fall%202021.pdf" class="internal-link quarter-line-space">Lecture notes&nbsp;→</a>
+</li>
 
 <li> MATH 110 <b>Introduction to Number Theory</b>, <small>Summer 2021</small></li>
 
