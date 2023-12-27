@@ -11,7 +11,7 @@ permalink: /teaching
 
 <div class="callout">
     <h2> Winter 2024 </h2>
-<p>I am an instructor for MATH 100 <b>Introduction to Proof</b></p>
+<p>I am an instructor for MATH 100 <b>Introduction to Proof & Problem Solving</b></p>
 </div>
 
 ### UC Santa Cruz
