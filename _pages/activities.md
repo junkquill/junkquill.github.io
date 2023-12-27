@@ -14,7 +14,7 @@ permalink: /activities
 I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, co-organising the <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, a Foundations Scholar with <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a>, and also leading a session at the <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle, Santa Cruz</b></a>.
 </div>
 
-### UC Santa Cruz
+<!-- ### UC Santa Cruz -->
 
 <details>
     <summary><b style="color:#addfad">Service</b></summary>

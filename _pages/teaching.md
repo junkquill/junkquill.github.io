@@ -14,7 +14,7 @@ permalink: /teaching
 <p>I am an instructor for MATH 100 <b>Introduction to Proof & Problem Solving</b></p>
 </div>
 
-### UC Santa Cruz
+<!-- ### UC Santa Cruz -->
 
 <details>
     <summary><b style="color:#ffffbf">Instructor of Record</b></summary>
