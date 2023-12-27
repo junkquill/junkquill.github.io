@@ -17,7 +17,7 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 ### UC Santa Cruz
 
 <details>
-    <summary><b style="color:#c3dbc3">Service</b></summary>
+    <summary><b style="color:#addfad">Service</b></summary>
 
 <ul style="line-height:180%">
 
@@ -36,7 +36,7 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b style="color:#c3dbc3">Pedagogical Development</b></summary>
+    <summary><b style="color:#addfad">Pedagogical Development</b></summary>
 
 <ul style="line-height:180%">
 
@@ -55,7 +55,7 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b style="color:#c3dbc3">Reading Groups</b></summary>
+    <summary><b style="color:#addfad">Reading Groups</b></summary>
 
 <ul style="line-height:150%">
 
@@ -91,7 +91,7 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b style="color:#c3dbc3">Colloquiua and Seminars</b></summary>
+    <summary><b style="color:#addfad">Colloquiua and Seminars</b></summary>
 
 <ul style="line-height:180%">
 
@@ -110,7 +110,7 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b style="color:#c3dbc3">Mentorship</b></summary>
+    <summary><b style="color:#addfad">Mentorship</b></summary>
 
 <ul style="line-height:180%">
 
