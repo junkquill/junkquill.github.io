@@ -12,7 +12,7 @@ permalink: /teaching
 ### UC Santa Cruz
 #### Instructor of Record
 
-<ul style="line-height:150%" style="font-size: 90%">
+<ul style="line-height:150%">
 
 <li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2024</small></li>
 
