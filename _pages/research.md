@@ -3,7 +3,7 @@ title: Research
 description: "Ongoing research activity"
 nav: custom
 custom-nav: 
-    <a href="/research" title="Research">Research</a>&nbsp;|&nbsp;
+    <a href="/research" title="Research">Research</a>&nbsp;|
     <a href="/teaching" title="Teaching">Teaching</a>&nbsp;|&nbsp;
     <a href="/service" title="Service">Service</a>
 permalink: /research
@@ -22,3 +22,5 @@ permalink: /research
 ## Theses
 * [Motivic Integrals of Orbifolds](https://www.hse.ru/en/edu/vkr/296285338)<br>
 <small>Master's Thesis, Higher School of Economics</small>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
