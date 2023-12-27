@@ -31,8 +31,22 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
     Organiser, <small>co-organised with David Rubinstein</small></li>
 
 <li> <a href="https://sites.google.com/ucsc.edu/awm/"><b>Association for Women in Mathematics</b></a>, UCSC Chapter<br>
-    <small> President (Sep 2022 - Sep 2023), General Secretary (Nov 2020 - Jun 2022)</small></li>
+    <small> President (Sep 2022 - Sep 2023), General Secretary (Nov 2020 - Jun 2022)</small>
 
+<ul>
+    <li><b>Prelim Study Group</b></a> (an AWM Initiative)</li>
+    <li><b>EmpowHER Hour</b></a> (an AWM Initiative)</li>
+</ul>
+
+</li>
+<li> <b>Mathematics Department Peer Support Program</b>, <small>Aug 2021 - <em>present</em></small><br>
+    Organiser, <small>co-organised with Ryan Pugh, Jennifer Guerrero, David Rubinstein, Malachi Alexander, Sophie Aiken</small></li>
+
+<li> <b>Mathematics Department DEI Committee</b>, <small>Oct 2020 - Jun 2022</small><br>
+    Graduate Student Representative</li>
+
+<li> <b>Mathematics Department GSI Support</b>, <small>Feb 2021 - Aug 2021</small><br>
+    Organiser & Convener</li>
 </ul>
 </details>
 
