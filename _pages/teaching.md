@@ -39,7 +39,8 @@ permalink: /teaching
 </ul>
 </details>
 
-### Teaching Assistant
+<details>
+    <summary><b>Teaching Assistant</b></summary>
 
 <ul style="line-height:180%">
 
@@ -64,3 +65,4 @@ permalink: /teaching
 <li> MATH 3 <b>Precalculus</b>, <small>Fall 2019</small></li>
 
 </ul>
+</details>
