@@ -41,6 +41,8 @@ permalink: /teaching
 </ul>
 </details>
 
+<!-- --------------------------------------------------- -->
+
 <details>
     <summary><b>Teaching Assistant</b></summary>
 

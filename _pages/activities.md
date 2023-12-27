@@ -14,8 +14,6 @@ permalink: /activities
 <details>
     <summary><b>Reading Groups</b></summary>
 
-<small>&#9733; organiser or co-organiser</small>
-
 <ul style="line-height:150%">
 
 <li> Abelian Varieties over Finite Fields &#9733;, <small>Fall 2023</small></li>
@@ -43,16 +41,22 @@ permalink: /activities
 <li> A Course in Arithmetic by J.-P.Serre &#9733;, <small>Winter & Summer 2020</small></li>
 
 </ul>
+
+<small>&#9733; organiser or co-organiser</small>
 </details>
 
+<!-- --------------------------------------------------- -->
+
 <details>
-    <summary><b>Teaching Assistant</b></summary>
+    <summary><b>Colloquiua and Seminars</b></summary>
 
 <ul style="line-height:180%">
 
-<li> MATH 11A <b>Calculus with Applications</b>, <small>Fall 2023</small></li>
+<li> <b>Category Theory Learning Seminar</b>, <a href="https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf" class="internal-link quarter-line-space">Seminar notes&nbsp;→</a><br>
+    Organiser, <small>co-organised with Vaibhav Sutrave and David Rubinstein</small></li>
 
-<li> MATH 105A <b>Real Analysis</b>, <small>Summer 2023</small></li>
+<li> <b>Category Theory Learning Seminar</b>, <a href="https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf" class="internal-link quarter-line-space">Seminar notes&nbsp;→</a><br>
+    Organiser, <small>co-organised with Vaibhav Sutrave and David Rubinstein</small></li>
 
 <li> MATH 288B <b>Pedagogy of Mathematics (for GSIs)</b>, <small>Winter 2023</small></li>
 
