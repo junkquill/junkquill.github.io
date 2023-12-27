@@ -117,7 +117,7 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 <li> <b>Head TA</b>, Mathematics Department<br>
     <small> Administrative (Jul 2023 - <em>present</em>), Mentorship & Support (Jul 2022 - <em>present</em>)</small></li>
 
-<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Mar 2024<em>present</em></small><br>
+<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Mar 2024</small><br>
     Organiser, <small>co-organised with David Rubinstein</small></li>
 
 <li> <a href="https://sites.google.com/ucsc.edu/awm/"><b>Association for Women in Mathematics</b></a>, UCSC Chapter<br>
@@ -131,14 +131,16 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 ### External
 
 <details>
-    <summary><b style="color:#f3a190">Conference Sessions</b></summary>
+    <summary><b style="color:#1b6d7e">Conference Sessions</b></summary>
 
 <ul style="line-height:180%">
 
-<li> Invited Paper Session on <b>Rethinking Number Theory</b> <small>at MAA MathFest</small><br>
+<li> Invited Paper Session on <b>Rethinking Number Theory</b><br>
+    <em>MAA MathFest</em><br>
     Organiser, <small>co-organised with Tyler Billingsley and Sandra Nair</small></li>
 
-<li> Special Session on <b>Rethinking Number Theory</b> <small>at AWM Research Symposium</small><br>
+<li> Special Session on <b>Rethinking Number Theory</b><br>
+    <em>AWM Research Symposium</em><br>
     Organiser, <small>co-organised with Eva Goedhart and Amita Malik</small></li>
 
 </ul>

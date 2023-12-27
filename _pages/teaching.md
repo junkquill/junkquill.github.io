@@ -49,7 +49,7 @@ permalink: /teaching
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b style="color:#bfe3ff">Teaching Assistant</b></summary>
+    <summary><b style="color:#f3a190">Teaching Assistant</b></summary>
 
 <ul style="line-height:180%">
 
@@ -79,9 +79,9 @@ permalink: /teaching
 <!-- --------------------------------------------------- -->
 
 ### Shiv Nadar University
-
+<!-- bfe3ff -->
 <details>
-    <summary><b style="color:#bfe3ff">Teaching Assistant</b></summary>
+    <summary><b style="color:#f3a190">Teaching Assistant</b></summary>
 
 <ul style="line-height:180%">
 
