@@ -9,73 +9,30 @@ custom-nav:
 permalink: /teaching
 ---
 
-#### UC Santa Cruz
-
-##### Instructor of Record
+### UC Santa Cruz
+#### Instructor of Record
 
 <ul style="line-height:180%">
 
-<li>
-<span class="journal">MATH 100</span> <span class="title"><em>Introduction to Proof and Problem Solving</em></span>,
-<span class="coauthor">Winter 2024</span> <small>(tentatively)</small>
-</li>
+<li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2024</small></li>
 
-<li>
-<span class="journal">MATH 105A</span> <span class="title"><em>Real Analysis</em></span>,
-<span class="coauthor">Summer 2023</span>
-</li>
+<li> MATH 105A <b>Real Analysis</b>, <small>Summer 2023</small></li>
 
-<li>
-<span class="journal">MATH 103A</span> <span class="title"><em>Complex Analysis</em></span>,
-<span class="coauthor">Spring 2023</span> 
-        <div class="btn-group btn-group-xs">        
-        <a href="https://github.com/bdeewang/math103a-s23-ucsc/blob/main/MATH%20103A%20Lecture%20Notes.pdf" class="btn btn-primary">Lecture Notes</a>
-        </div>
-</li>
+<li> MATH 103A <b>Complex Analysis</b>, <small>Spring 2023</small></li>
 
-<li>
-<span class="journal">MATH 11B</span> <span class="title"><em>Calculus with Applications</em></span>,
-<span class="coauthor">Summer 2022</span>
-</li>
+<li> MATH 11B <b>Calculus with Applications</b>, <small>Summer 2022</small></li>
 
-<li>
-<span class="journal">MATH 100</span> <span class="title"><em>Introduction to Proof and Problem Solving</em></span>,
-<span class="coauthor">Summer 2022</span> 
-        <div class="btn-group btn-group-xs">        
-        <a href="https://github.com/bdeewang/math100-sum22-ucsc/raw/main/MATH%20100%20Lecture%20Notes%2C%20Summer%202022.pdf" class="btn btn-primary">Lecture Notes</a>
-        </div>
-</li>
+<li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Summer 2022</small></li>
 
-<li>
-<span class="journal">MATH 103A</span> <span class="title"><em>Complex Analysis</em></span>,
-<span class="coauthor">Spring 2022</span> 
-        <div class="btn-group btn-group-xs">        
-        <a href="https://github.com/bdeewang/math103a-s22-ucsc/blob/main/MATH%20103A%20Lecture%20Notes%2C%20Spring%202022.pdf" class="btn btn-primary">Lecture Notes</a>
-        </div>
-</li>
+<li> MATH 103A <b>Complex Analysis</b>, <small>Spring 2022</small></li>
 
-<li>
-<span class="journal">MATH 110</span> <span class="title"><em>Introduction to Number Theory</em></span>,
-<span class="coauthor">Fall 2022</span> 
-        <div class="btn-group btn-group-xs">        
-            <a href="https://github.com/bdeewang/math110-f21-ucsc/raw/main/MATH%20110%20Lecture%20Notes%2C%20Fall%202021.pdf" class="btn btn-primary">Lecture Notes</a>
-        </div>
-</li>
+<li> MATH 110 <b>Introduction to Number Theory</b>, <small>Fall 2021</small></li>
 
-<li>
-<span class="journal">MATH 110</span> <span class="title"><em>Introduction to Number Theory</em></span>,
-<span class="coauthor">Summer 2021</span>
-</li>
+<li> MATH 110 <b>Introduction to Number Theory</b>, <small>Summer 2021</small></li>
 
-<li>
-<span class="journal">MATH 105A</span> <span class="title"><em>Real Analysis</em></span>,
-<span class="coauthor">Fall 2020</span>
-</li>
+<li> MATH 105A <b>Real Analysis</b>, <small>Fall 2020</small></li>
 
-<li>
-<span class="journal">MATH 3</span> <span class="title"><em>Precalculus</em></span>,
-<span class="coauthor">Summer 2020</span>
-</li>
+<li> MATH 3 <b>Precalculus</b>, <small>Summer 2020</small></li>
 
 </ul>
 
