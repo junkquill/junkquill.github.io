@@ -131,7 +131,7 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 ### External
 
 <details>
-    <summary><b style="color:#1b6d7e">Conference Sessions</b></summary>
+    <summary><b style="color:#69b2c1">Conference Sessions</b></summary>
 
 <ul style="line-height:180%">
 
