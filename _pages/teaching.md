@@ -12,8 +12,7 @@ permalink: /teaching
 ### UC Santa Cruz
 #### Instructor of Record
 
-<small>
-<ul style="line-height:200%">
+<ul style="line-height:150%" style="font-size: 90%">
 
 <li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2024</small></li>
 
@@ -36,7 +35,6 @@ permalink: /teaching
 <li> MATH 3 <b>Precalculus</b>, <small>Summer 2020</small></li>
 
 </ul>
-</small>
 
 #### Teaching Assistant
 
