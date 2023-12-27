@@ -25,6 +25,22 @@ I am giving a talk at the <a href="https://www.jointmathematicsmeetings.org/meet
     <a href="https://arxiv.org/abs/2306.02237"><code>arXiv:2306.02237</code></a> </li>
 </ol>
 
+<!-- --------------------------------------------------- -->
+
+<details>
+    <summary><b style="color:#c885b9">In Progress</b></summary>
+
+<ul style="line-height:180%">
+
+<li> Ekedahl-Oort stratification of unitary Shimura varities of low signature <small><em>(with Maria Fox, Heidi Goodson, Steven Groen, Sandra Nair, and Emerald Stacy)</em></small></li>
+
+<li> A \(p\)-adic analytic Brauer Group <small><em>(with Martin Weissman)</em></small></li>
+
+</ul>
+</details>
+
+<!-- --------------------------------------------------- -->
+
 <!-- ### Theses -->
 <h3 style="color:#c885b9">Theses</h3>
 
