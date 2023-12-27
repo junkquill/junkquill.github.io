@@ -12,11 +12,11 @@ My research interests lie in arithmetic geometry and algebraic number theory.
 
 * ## Articles
 
-+ The Brauer Group of $\mathscr{Y}_0(2)$
+    + The Brauer Group of $\mathscr{Y}_0(2)$
 <small>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</small>
 [`arXiv:2311.18132`](https://arxiv.org/abs/2311.18132)
 
-+ Frobenius distributions of low dimensional abelian varieties over finite fields
+    + Frobenius distributions of low dimensional abelian varieties over finite fields
 <small>(with Santiago Arango-Pineros and Soumya Sankar)</small>
 [`arXiv:2306.02237`](https://arxiv.org/abs/2306.02237)
 
