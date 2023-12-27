@@ -17,7 +17,7 @@ permalink: /teaching
 ### UC Santa Cruz
 
 <details>
-    <summary><b>Instructor of Record</b></summary>
+    <summary><b color="#FFFF00">Instructor of Record</b></summary>
 
 <ul style="line-height:150%">
 
@@ -49,7 +49,7 @@ permalink: /teaching
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b>Teaching Assistant</b></summary>
+    <summary><b color="#FFFF00">Teaching Assistant</b></summary>
 
 <ul style="line-height:180%">
 
@@ -79,7 +79,7 @@ permalink: /teaching
 ### Shiv Nadar University
 
 <details>
-    <summary><b>Teaching Assistant</b></summary>
+    <summary><b color="#FFFF00">Teaching Assistant</b></summary>
 
 <ul style="line-height:180%">
 
