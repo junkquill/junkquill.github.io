@@ -63,15 +63,79 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 
 <ul style="line-height:180%">
 
-<li> <b>Head TA</b>, Mathematics Department<br>
-    <small> Administrative (Jul 2023 - <em>present</em>), Mentorship & Support (Jul 2022 - <em>present</em>)</small></li>
+<li> <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, Mathematics, <small> Winter - Spring 2024</small><br>
+    <small> Teaching & Learning Center</small></li>
 
-<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Mar 2024<em>present</em></small><br>
+<li> <em>Session Leader</em>, <a href="https://tlc.ucsc.edu/programs/preparing-for-inclusive-teaching/"><b>Preparing for Inclusive
+Teaching</b></a>, <small> Mar 2024</small></li>
+
+<li> <em>Foundations Scholar</em>, <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a>, <small> Fall 2023 - Spring 2024</small></li>
+
+<li> <em>Graduate Student Facilitator</em>, <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle, Santa Cruz</b></a>, <small> Sep 2023</small></li>
+
+<li> <em>Graduate Student Researcher</em>, <b>Redisigning Calculus in the Life Sciences</b></a>, <small> Summer 2023, 2021</small></li>
+
+<li> <a href="https://tlc.ucsc.edu/programs/summer-gsi-peer-support-team/"><b>Summer GSI Peer Support Team</b></a>, <small> Spring - Summer 2021</small></li>
+
+</ul>
+</details>
+
+<!-- --------------------------------------------------- -->
+
+<details>
+    <summary><b style="color:#addfad">Mentorship</b></summary>
+
+<br>
+<a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>
+<ul style="line-height:180%">
+
+<li> Yahya Bashandy, <b>TBD</b>, <small>Winter 2024</small><br>
+    <small>with David Rubinstein</small></li>
+
+<li> Chloe Watson, <b>TBD</b>, <small>Winter 2024</small></li>
+
+<li> Yahya Bashandy, <b>Group Cohomology & Hilbert's 90</b>, <small>Fall 2023</small><br>
+    <small>with David Rubinstein</small></li>
+
+<li> August Noe, <b>Model Theory</b>, <small>Fall 2023</small></li>
+
+<li> Morea Lee, <b>Kummer Theory</b>, <small>Spring 2023</small></li>
+
+<li> Brooke Zhang, <b>Combinatorial Designs</b>, <small>Fall 2022</small></li>
+
+<li> Kenneth Gee, <b>The Lambek Correspondance</b>, <small>Summer - Fall 2022</small><br>
+    <small>with David Rubinstein</small></li>
+
+<li> Miles Mitchell, <b>Affine Algebraic Groups</b>, <small>Spring 2022</small></li>
+
+<li> Morea Lee, <b>Galois Theory of Number Fields</b>, <small>Winter 2022</small></li>
+
+<li> Yijia Sun, <b>Error Correction Codes</b>, <small>Fall 2021</small></li>
+
+<li> Anna Yoon, <b>Elliptic Curve Cryptography</b>, <small>Winter 2020</small></li>
+
+</ul>
+</details>
+
+<!-- --------------------------------------------------- -->
+
+<details>
+    <summary><b style="color:#addfad">Colloquiua and Seminars</b></summary>
+
+<ul style="line-height:180%">
+
+<li> <b>What are you reading?</b> <em>an informal seminar</em>, <small>Spring 2023</small><br>
+    Organiser, <small>co-organised with David Rubinstein, Sophie Aiken and Jennifer Guerrero</small></li>
+
+<li> <b>Category Theory Learning Seminar</b>, <small>Winter & Spring 2022</small><br>
+    Organiser, <small>co-organised with Vaibhav Sutrave and David Rubinstein</small>
+    <a href="https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf" class="internal-link quarter-line-space">Seminar notes&nbsp;→</a></li>
+
+<li> <b>Graduate Colloquium</b>, <small>Fall 2020 - Spring 2022</small><br>
     Organiser, <small>co-organised with David Rubinstein</small></li>
 
-<li> <a href="https://sites.google.com/ucsc.edu/awm/"><b>Association for Women in Mathematics</b></a>, UCSC Chapter<br>
-    <small> President (Sep 2022 - Sep 2023), General Secretary (Nov 2020 - Jun 2022)</small></li>
-
+<li> <b>Undergraduate Colloquium</b>, <small>Spring 2022</small><br>
+    Organiser, <small>as a member of AWM EC</small></li>
 </ul>
 </details>
 
@@ -109,62 +173,6 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 </ul>
 <br>
 <small>&#9733; organiser or co-organiser</small>
-</details>
-
-<!-- --------------------------------------------------- -->
-
-<details>
-    <summary><b style="color:#addfad">Colloquiua and Seminars</b></summary>
-
-<ul style="line-height:180%">
-
-<li> <b>What are you reading?</b> <em>an informal seminar</em>, <small>Spring 2023</small><br>
-    Organiser, <small>co-organised with David Rubinstein, Sophie Aiken and Jennifer Guerrero</small></li>
-
-<li> <b>Category Theory Learning Seminar</b>, <small>Winter & Spring 2022</small><br>
-    Organiser, <small>co-organised with Vaibhav Sutrave and David Rubinstein</small>
-    <a href="https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf" class="internal-link quarter-line-space">Seminar notes&nbsp;→</a></li>
-
-<li> <b>Graduate Colloquium</b>, <small>Fall 2020 - Spring 2022</small><br>
-    Organiser, <small>co-organised with David Rubinstein</small></li>
-
-<li> <b>Undergraduate Colloquium</b>, <small>Spring 2022</small><br>
-    Organiser, <small>as a member of AWM EC</small></li>
-</ul>
-</details>
-
-<!-- --------------------------------------------------- -->
-
-<details>
-    <summary><b style="color:#addfad">Mentorship</b></summary>: <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>
-<ul style="line-height:180%">
-
-<li> Yahya Bashandy, <b>TBD</b>, <small>Winter 2024</small><br>
-    <small>with David Rubinstein</small></li>
-
-<li> Chloe Watson, <b>TBD</b>, <small>Winter 2024</small></li>
-
-<li> Yahya Bashandy, <b>Group Cohomology & Hilbert's 90</b>, <small>Fall 2023</small><br>
-    <small>with David Rubinstein</small></li>
-
-<li> August Noe, <b>Model Theory</b>, <small>Fall 2023</small></li>
-
-<li> Morea Lee, <b>Kummer Theory</b>, <small>Spring 2023</small></li>
-
-<li> Brooke Zhang, <b>Combinatorial Designs</b>, <small>Fall 2022</small></li>
-
-<li> Kenneth Gee, <b>The Lambek Correspondance</b>, <small>Summer - Fall 2022</small><br>
-    <small>with David Rubinstein</small></li>
-
-<li> Miles Mitchell, <b>Affine Algebraic Groups</b>, <small>Spring 2022</small></li>
-
-<li> Morea Lee, <b>Galois Theory of Number Fields</b>, <small>Winter 2022</small></li>
-
-<li> Yijia Sun, <b>Error Correction Codes</b>, <small>Fall 2021</small></li>
-
-<li> Anna Yoon, <b>Elliptic Curve Cryptography</b>, <small>Winter 2020</small></li>
-
-</ul>
 </details>
 
 <!-- --------------------------------------------------- -->
