@@ -3,9 +3,9 @@ title: About
 description: "Deewang is a mathematician-in-training."  
 nav: custom
 custom-nav: 
-    - '<a href="/now" title="Now">Now</a>&nbsp;|&nbsp;'
-    - '<a href="/portfolio" title="Portfolio">Portfolio</a>&nbsp;|&nbsp;'
-    - '<a href="/contact" title="Contact">Contact</a>'
+    <a href="/research" title="Research">Research</a>&nbsp;|&nbsp;
+    <a href="/teaching" title="Teaching">Teaching</a>&nbsp;|&nbsp;
+    <a href="/service" title="Service">Service</a>
 permalink: /about
 --- 
 
