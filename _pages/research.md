@@ -20,7 +20,7 @@ permalink: /research
     <small>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez) </small><br>
     <a href="https://arxiv.org/abs/2306.02237"><code>arXiv:2306.02237</code></a> </li>
 
-<li> Frobenius distributions of low dimensional abelian varieties over finite fields<br>
+<li font-size: 5em> Frobenius distributions of low dimensional abelian varieties over finite fields<br>
     <small>(with Santiago Arango-Pineros and Soumya Sankar)</small><br>
     <a href="https://arxiv.org/abs/2311.18132"><code>arXiv:2311.18132</code></a> </li>
 </ol>
