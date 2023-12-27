@@ -1,12 +1,12 @@
 ---
-title: Teaching
-description: "Teaching experience"
+title: Activities
+description: "Service and organising activities"
 nav: custom
 custom-nav: 
     <a href="/research" title="Research">Research</a>&nbsp;|
     <a href="/teaching" title="Teaching">Teaching</a>&nbsp;|
     <a href="/activities" title="Activities">Activities</a>
-permalink: /teaching
+permalink: /activities
 ---
 
 ### UC Santa Cruz
