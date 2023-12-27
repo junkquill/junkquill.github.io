@@ -63,19 +63,23 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 
 <ul style="line-height:180%">
 
-<li> <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, Mathematics, <small> Winter - Spring 2024</small><br>
-    <small> Teaching & Learning Center</small></li>
+<li> <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Graduate Pedagogy Fellow</b></a>, Mathematics<br>
+    <small> Winter - Spring 2024</small></li>
 
-<li> <em>Session Leader</em>, <a href="https://tlc.ucsc.edu/programs/preparing-for-inclusive-teaching/"><b>Preparing for Inclusive
-Teaching</b></a>, <small> Mar 2024</small></li>
+<li> <em>Session Leader</em>, <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle, Santa Cruz</b></a><br>
+    <small> Mar 2024</small></li>
 
-<li> <em>Foundations Scholar</em>, <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a>, <small> Fall 2023 - Spring 2024</small></li>
+<li> <em>Foundations Scholar</em>, <a href="https://sites.google.com/ucsc.edu/edgedsprogram/"><b>edge-DS</b></a><br>
+    <small> Fall 2023 - Spring 2024</small></li>
 
-<li> <em>Graduate Student Facilitator</em>, <a href="https://people.ucsc.edu/~pmorale5/mtc/"><b>Math Teachers’ Circle, Santa Cruz</b></a>, <small> Sep 2023</small></li>
+<li> <em>Graduate Student Facilitator</em>, <a href="https://tlc.ucsc.edu/programs/preparing-for-inclusive-teaching/"><b>Preparing for Inclusive
+Teaching</b></a><br>
+    <small> Sep 2023</small></li>
 
-<li> <em>Graduate Student Researcher</em>, <b>Redisigning Calculus in the Life Sciences</b></a>, <small> Summer 2023, 2021</small></li>
+<li> <em>Graduate Student Researcher</em>, <b>Redisigning Calculus in the Life Sciences</b>, <small> Summer 2023, 2021</small></li>
 
-<li> <a href="https://tlc.ucsc.edu/programs/summer-gsi-peer-support-team/"><b>Summer GSI Peer Support Team</b></a>, <small> Spring - Summer 2021</small></li>
+<li> <a href="https://tlc.ucsc.edu/programs/summer-gsi-peer-support-team/"><b>Summer GSI Peer Support Team</b></a><br>
+    <small> Spring - Summer 2021</small></li>
 
 </ul>
 </details>
