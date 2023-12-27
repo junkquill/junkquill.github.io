@@ -1,6 +1,6 @@
 ---
-title: Research
-description: "Ongoing research activity"
+title: Teaching
+description: "Teaching experience"
 nav: custom
 custom-nav: 
     <a href="/research" title="Research">Research</a>&nbsp;|
