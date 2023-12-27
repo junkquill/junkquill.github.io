@@ -10,8 +10,7 @@ permalink: /teaching
 ---
 
 <div class="callout">
-<h2>Currently</h2>
-<p>I am an instructor of record for MATH 100 <b>Introduction to Proof and Problem Solving</b></p>
+<p><em>Winter 2024:</em> I am an instructor of record for MATH 100 <b>Introduction to Proof and Problem Solving</b></p>
 </div>
 
 ### UC Santa Cruz
