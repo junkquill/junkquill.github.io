@@ -8,20 +8,16 @@ custom-nav:
     - '<a href="/contact" title="Contact">Contact</a>'
 permalink: /research
 ---
-
-<script
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
-  type="text/javascript">
-</script>
+My research interests lie in arithmetic geometry and algebraic number theory.
 
 ## Articles
 
-2\. The Brauer Group of $\mathscr{Y}_0(2)$\
-(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)\
+* The Brauer Group of $\mathscr{Y}_0(2)$\
+<small>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</small>\
 [`arXiv:2311.18132`](https://arxiv.org/abs/2311.18132)
 
-1\. Frobenius distributions of low dimensional abelian varieties over finite fields\
-(with Santiago Arango-Pineros and Soumya Sankar)\
+* Frobenius distributions of low dimensional abelian varieties over finite fields\
+<small>(with Santiago Arango-Pineros and Soumya Sankar)</small>\
 [`arXiv:2306.02237`](https://arxiv.org/abs/2306.02237)
 
 <!-- <ol reversed>
@@ -34,6 +30,6 @@ permalink: /research
     <a href=""><code></code></a> </li>
 </ol> -->
 
-## Pedagogy
-* Graduate Student Researcher, *Redesigning Calculus in the Life Sciences*\
-<small>Summer 2023, Summer 2022</small>
+## Theses
+* [Motivic Integrals of Orbifolds](https://www.hse.ru/en/edu/vkr/296285338)\
+<small>Master's Thesis, Higher School of Economics</small>

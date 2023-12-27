@@ -10,11 +10,17 @@ Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
 <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="internal-link quarter-line-space">View my CV&nbsp;→</a>
 
-My research interests lie in arithmetic geometry, algebraic number theory, and undergraduate mathematics education.
-<a href="/research" class="internal-link quarter-line-space">Go to my research&nbsp;→</a>
+In Winter 2024
+* I will be teaching MATH 100: Intro to Proofs.
+* I am a [Graduate Pedagogy Fellow](https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/).
+* I am co-organising the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/).
+* I will be attending the [Arizona Winter School](https://swc-math.github.io/aws/2024/index.html).
+* I will be visiting [AIM](https://aimath.org/programs/squares/).
+
+<!-- <a href="/research" class="internal-link quarter-line-space">Go to my research&nbsp;→</a>
 
 I am currently teaching a class on Proofs.
-<a href="/teaching" class="internal-link quarter-line-space">Go to my teaching&nbsp;→</a>
+<a href="/teaching" class="internal-link quarter-line-space">Go to my teaching&nbsp;→</a> -->
 
 <!-- I also keep busy by organising and helping organise things in my department.
 <a href="/service" class="internal-link quarter-line-space">View my service&nbsp;→</a> -->
