@@ -125,3 +125,21 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 
 </ul>
 </details>
+
+<!-- --------------------------------------------------- -->
+
+### External
+
+<details>
+    <summary><b style="color:#f3a190">Conference Sessions</b></summary>
+
+<ul style="line-height:180%">
+
+<li> Invited Paper Session on <b>Rethinking Number Theory</b> <small>at MAA MathFest</small><br>
+    Organiser, <small>co-organised with Tyler Billingsley and Sandra Nair</small></li>
+
+<li> Special Session on <b>Rethinking Number Theory</b> <small>at AWM Research Symposium</small><br>
+    Organiser, <small>co-organised with Eva Goedhart and Amita Malik</small></li>
+
+</ul>
+</details>
