@@ -8,7 +8,6 @@ custom-nav:
     - '<a href="/contact" title="Contact">Contact</a>'
 permalink: /research
 ---
-My research interests lie in arithmetic geometry and algebraic number theory.
 
 * ## Articles
 
