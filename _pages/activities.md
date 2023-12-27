@@ -52,8 +52,9 @@ permalink: /activities
 
 <ul style="line-height:180%">
 
-<li> <b>Category Theory Learning Seminar</b>, <a href="https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf" class="internal-link quarter-line-space">Seminar notes&nbsp;→</a><br>
-    Organiser, <small>co-organised with Vaibhav Sutrave and David Rubinstein</small></li>
+<li> <b>Category Theory Learning Seminar</b>, <small>Winter & Spring 2022</small><br>
+    Organiser, <small>co-organised with Vaibhav Sutrave and David Rubinstein</small>
+    <a href="https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf" class="internal-link quarter-line-space">Seminar notes&nbsp;→</a></li>
 
 <li> <b>Category Theory Learning Seminar</b>, <a href="https://github.com/theewaang/cat-theory-w22-ucsc/blob/main/Category%20Theory%20Learning%20Seminar%20Notes%2C%20Winter%202022.pdf" class="internal-link quarter-line-space">Seminar notes&nbsp;→</a><br>
     Organiser, <small>co-organised with Vaibhav Sutrave and David Rubinstein</small></li>
