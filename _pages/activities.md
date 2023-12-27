@@ -14,33 +14,33 @@ permalink: /activities
 <details>
     <summary><b>Reading Groups</b></summary>
 
-<small>&#11088; organiser or co-organiser</small>
+<small>&#9733; organiser or co-organiser</small>
 
 <ul style="line-height:150%">
 
-<li> Abelian Varieties over Finite Fields &#11088;, <small>Fall 2023</small></li>
+<li> Abelian Varieties over Finite Fields &#9733;, <small>Fall 2023</small></li>
 
 <li> Derived Categories of Permutation Modules, <small>Spring 2023</small></li>
 
 <li> Canonical Induction Formulas, <small>Spring 2023</small></li>
 
-<li> Topological Data Analysis &#11088;, <small>Winter 2023</small></li>
+<li> Topological Data Analysis &#9733;, <small>Winter 2023</small></li>
 
-<li> Stacks &#11088;, <small>Fall 2022</small></li>
+<li> Stacks &#9733;, <small>Fall 2022</small></li>
 
 <li> Pointless Topology and Triangulated Categories, <small>Fall 2022</small></li>
 
 <li> Stable Homotopy Theory, <small>Winter & Spring 2022</small></li>
 
-<li> Étale Cohomology &#11088;, <small>Fall 2021</small></li>
+<li> Étale Cohomology &#9733;, <small>Fall 2021</small></li>
 
 <li> (Modular) Representation Theory, <small>Summer 2021</small></li>
 
 <li> Local Class Field Theory, <small>Spring & Summer 2021</small></li>
 
-<li> Homological Algebra &#11088;, <small>Spring 2021</small></li>
+<li> Homological Algebra &#9733;, <small>Spring 2021</small></li>
 
-<li> A Course in Arithmetic by J.-P.Serre &#11088;, <small>Winter & Summer 2020</small></li>
+<li> A Course in Arithmetic by J.-P.Serre &#9733;, <small>Winter & Summer 2020</small></li>
 
 </ul>
 </details>
