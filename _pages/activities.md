@@ -136,9 +136,7 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b style="color:#addfad">Mentorship</b></summary>
-
-<a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>
+    <summary><b style="color:#addfad">Mentorship</b></summary>: <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>
 <ul style="line-height:180%">
 
 <li> Yahya Bashandy, <b>TBD</b>, <small>Winter 2024</small><br>
@@ -167,23 +165,6 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 <li> Anna Yoon, <b>Elliptic Curve Cryptography</b>, <small>Winter 2020</small></li>
 
 </ul>
-
-<a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>
-<ul style="line-height:180%">
-
-<li> Lillian Frey, <b>Linear Codes</b>, <small>Sep - Dec 2022</small><br>
-    <small>Binghamton University</small></li>
-
-<li> Lalit Sharma, <b>Class Groups</b>, <small>Feb - May 2022</small><br>
-    <small>University of Delhi</small></li>
-
-<li> Bowen Li, <b>Category Theory</b>, <small>Feb - May 2022</small><br>
-    <small>Carleton College</small></li>
-
-<li> Lalit Sharma, <b>Varieties</b>, <small>Sep - Dec 2021</small><br>
-    <small>University of Delhi</small></li>
-
-</ul>
 </details>
 
 <!-- --------------------------------------------------- -->
@@ -202,6 +183,28 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 <li> Special Session on <b>Rethinking Number Theory</b><br>
     <em>AWM Research Symposium</em><br>
     Organiser, <small>co-organised with Eva Goedhart and Amita Malik</small></li>
+
+</ul>
+</details>
+
+<details>
+    <summary><b style="color:#69b2c1">Mentorship</b></summary>
+<br>
+
+<a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>
+<ul style="line-height:180%">
+
+<li> Lillian Frey, <b>Linear Codes</b>, <small>Sep - Dec 2022</small><br>
+    <small>Binghamton University</small></li>
+
+<li> Lalit Sharma, <b>Class Groups</b>, <small>Feb - May 2022</small><br>
+    <small>University of Delhi</small></li>
+
+<li> Bowen Li, <b>Category Theory</b>, <small>Feb - May 2022</small><br>
+    <small>Carleton College</small></li>
+
+<li> Lalit Sharma, <b>Varieties</b>, <small>Sep - Dec 2021</small><br>
+    <small>University of Delhi</small></li>
 
 </ul>
 </details>
