@@ -15,7 +15,7 @@ Here is my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BC
 My research interests lie in arithmetic geometry and algebraic number theory.
 <a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a>
 
-I am currently teaching a class on Proofs.
+I am currently teaching MATH 100: Introduction to Proofs.
 <a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
 
 This quarter, I am also a [Graduate Pedagogy Fellow](https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/), co-organising the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/) and visiting [AIM](https://aimath.org/programs/squares/).
