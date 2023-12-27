@@ -36,22 +36,29 @@ permalink: /teaching
 
 </ul>
 
-<!-- * MATH 100 **Introduction to Proof and Problem Solving**<br>
-<small>Summer 2022, Winter 2024 </small>
+#### Teaching Assistant
 
-* MATH 105A **Real Analysis**<br>
-<small>Summer 2023, Fall 2020 </small>
+<ul style="line-height:180%">
 
-* MATH 103A **Complex Analysis**<br>
-<small>Spring 2023, Spring 2022</small>
+<li> MATH 11A <b>Calculus with Applications</b>, <small>Fall 2023</small></li>
 
-* MATH 11B **Calculus with Applications**<br>
-<small>Summer 2022</small>
+<li> MATH 105A <b>Real Analysis</b>, <small>Summer 2023</small></li>
 
-* MATH 110 **Introduction to Number Theory**<br>
-<small>Fall 2021, Summer 2021</small>
+<li> MATH 288B <b>Pedagogy of Mathematics (for GSIs)</b>, <small>Winter 2023</small></li>
 
-* MATH 3 **Precalculus**<br>
-<small>Summer 2020</small> -->
+<li> MATH 19A <b>Calculus for Science, Engineering, and Mathematics</b>, <small>Fall 2022</small></li>
+<!-- MATH 19A Calculus for Sci., Eng., and Math., Fall 2022 -->
 
-### Teaching Assistant
+<li> MATH 11A <b>Calculus with Applications</b>, <small>Winter 2022</small></li>
+
+<li> MATH 111T <b>Algebra</b>, <small>Spring 2021</small></li>
+
+<li> MATH 100 <b>Introduction to Proof and Problem Solving</b>, <small>Winter 2021</small></li>
+
+<li> MATH 3 <b>Precalculus</b>, <small>Spring 2020</small></li>
+
+<li> MATH 181 <b>History of Mathematics</b>, <small>Winter 2020</small></li>
+
+<li> MATH 3 <b>Precalculus</b>, <small>Fall 2019</small></li>
+
+</ul>

@@ -9,7 +9,7 @@ custom-nav:
 permalink: /research
 ---
 
-## Articles
+### Articles
 
 <ol reversed>
 <li> The Brauer Group of \(\mathscr{Y}_0(2)\) <small><em>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</em></small><br>
@@ -19,7 +19,7 @@ permalink: /research
     <a href="https://arxiv.org/abs/2306.02237"><code>arXiv:2306.02237</code></a> </li>
 </ol>
 
-## Theses
+### Theses
 * [Motivic Integrals of Orbifolds](https://www.hse.ru/en/edu/vkr/296285338)<br>
 <small>Master's Thesis, Higher School of Economics</small>
 
