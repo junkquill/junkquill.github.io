@@ -10,12 +10,14 @@ Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
 <a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="internal-link quarter-line-space">View my CV&nbsp;→</a>
 
-In Winter 2024
-* I will be teaching MATH 100: Intro to Proofs.
-* I am a [Graduate Pedagogy Fellow](https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/).
-* I am co-organising the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/).
-* I will be attending the [Arizona Winter School](https://swc-math.github.io/aws/2024/index.html).
-* I will be visiting [AIM](https://aimath.org/programs/squares/).
+<details>
+	<summary> In Winter 2024, I am</summary>
+* teaching MATH 100: Intro to Proofs.
+* a [Graduate Pedagogy Fellow](https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/).
+* co-organising the [Directed Reading Program](https://sites.google.com/ucsc.edu/drp-math/).
+* attending the [Arizona Winter School](https://swc-math.github.io/aws/2024/index.html).
+* visiting [AIM](https://aimath.org/programs/squares/).
+</details>
 
 <!-- <a href="/research" class="internal-link quarter-line-space">Go to my research&nbsp;→</a>
 
