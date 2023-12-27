@@ -11,7 +11,7 @@ permalink: /teaching
 
 ### UC Santa Cruz
 
-<description>
+<details>
     <summary><h3>Instructor of Record</h3></summary>
 
 <ul style="line-height:150%">
@@ -37,7 +37,7 @@ permalink: /teaching
 <li> MATH 3 <b>Precalculus</b>, <small>Summer 2020</small></li>
 
 </ul>
-</description>
+</details>
 
 ### Teaching Assistant
 
