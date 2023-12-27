@@ -21,10 +21,13 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 
 <ul style="line-height:180%">
 
+<li> <b>Project for Inmate Education (PIE)</b>, <small>Jul 2023 - <em>present</em></small><br>
+    Co-Director, <small>with David Rubinstein and Mikayla Wilson</small></li>
+
 <li> <b>Head TA</b>, Mathematics Department<br>
     <small> Administrative (Jul 2023 - <em>present</em>), Mentorship & Support (Jul 2022 - <em>present</em>)</small></li>
 
-<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Mar 2024<em>present</em></small><br>
+<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Mar 2024</small><br>
     Organiser, <small>co-organised with David Rubinstein</small></li>
 
 <li> <a href="https://sites.google.com/ucsc.edu/awm/"><b>Association for Women in Mathematics</b></a>, UCSC Chapter<br>
@@ -36,7 +39,7 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b style="color:#addfad">Pedagogical Related</b></summary>
+    <summary><b style="color:#addfad">Pedagogy Related</b></summary>
 
 <ul style="line-height:180%">
 
@@ -94,6 +97,9 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
     <summary><b style="color:#addfad">Colloquiua and Seminars</b></summary>
 
 <ul style="line-height:180%">
+
+<li> <b>What are you reading?</b> <em>an informal seminar</em>, <small>Spring 2023</small><br>
+    Organiser, <small>co-organised with David Rubinstein, Sophie Aiken and Jennifer Guerrero</small></li>
 
 <li> <b>Category Theory Learning Seminar</b>, <small>Winter & Spring 2022</small><br>
     Organiser, <small>co-organised with Vaibhav Sutrave and David Rubinstein</small>
