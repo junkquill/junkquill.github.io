@@ -71,12 +71,14 @@ permalink: /activities
 
 <ul style="line-height:180%">
 
-<li> <b>Head TA</b>, Mathematics Department<br> Administrative <small>(July 2023 - <em>present</em>), Mentorship & Support (July 2022 - July 2023)</small></li>
+<li> <b>Head TA</b>, Mathematics Department<br>
+    <small> Administrative (Jul 2023 - <em>present</em>), Mentorship & Support (Jul 2022 - <em>present</em>)</small></li>
 
-<li> <b>Graduate Colloquium</b>, <small>Fall 2020 - Spring 2022</small><br>
+<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Mar 2024<em>present</em></small><br>
     Organiser, <small>co-organised with David Rubinstein</small></li>
 
-<li> <b>Undergraduate Colloquium</b>, <small>Spring 2022</small><br>
-    Organiser, <small>as a member of AWM EC</small></li>
+<li> <a href="https://sites.google.com/ucsc.edu/awm/"><b>Association for Women in Mathematics</b></a>, UCSC Chapter<br>
+    <small> President (Sep 2022 - Sep 2023), General Secretary (Nov 2020 - Jun 2022)</small></li>
+
 </ul>
 </details>
