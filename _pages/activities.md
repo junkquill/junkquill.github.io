@@ -36,7 +36,7 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b style="color:#addfad">Pedagogical Development</b></summary>
+    <summary><b style="color:#addfad">Pedagogical Related</b></summary>
 
 <ul style="line-height:180%">
 
