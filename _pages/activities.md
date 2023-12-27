@@ -9,7 +9,50 @@ custom-nav:
 permalink: /activities
 ---
 
+<div class="callout">
+<h2>Currently</h2>
+<p>And here is the body text</p>
+</div>
+
 ### UC Santa Cruz
+
+<details>
+    <summary><b>Service</b></summary>
+
+<ul style="line-height:180%">
+
+<li> <b>Head TA</b>, Mathematics Department<br>
+    <small> Administrative (Jul 2023 - <em>present</em>), Mentorship & Support (Jul 2022 - <em>present</em>)</small></li>
+
+<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Mar 2024<em>present</em></small><br>
+    Organiser, <small>co-organised with David Rubinstein</small></li>
+
+<li> <a href="https://sites.google.com/ucsc.edu/awm/"><b>Association for Women in Mathematics</b></a>, UCSC Chapter<br>
+    <small> President (Sep 2022 - Sep 2023), General Secretary (Nov 2020 - Jun 2022)</small></li>
+
+</ul>
+</details>
+
+<!-- --------------------------------------------------- -->
+
+<details>
+    <summary><b>Pedagogical Development</b></summary>
+
+<ul style="line-height:180%">
+
+<li> <b>Head TA</b>, Mathematics Department<br>
+    <small> Administrative (Jul 2023 - <em>present</em>), Mentorship & Support (Jul 2022 - <em>present</em>)</small></li>
+
+<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Mar 2024<em>present</em></small><br>
+    Organiser, <small>co-organised with David Rubinstein</small></li>
+
+<li> <a href="https://sites.google.com/ucsc.edu/awm/"><b>Association for Women in Mathematics</b></a>, UCSC Chapter<br>
+    <small> President (Sep 2022 - Sep 2023), General Secretary (Nov 2020 - Jun 2022)</small></li>
+
+</ul>
+</details>
+
+<!-- --------------------------------------------------- -->
 
 <details>
     <summary><b>Reading Groups</b></summary>
@@ -67,7 +110,7 @@ permalink: /activities
 <!-- --------------------------------------------------- -->
 
 <details>
-    <summary><b>Departmental Service</b></summary>
+    <summary><b>Mentorship</b></summary>
 
 <ul style="line-height:180%">
 
