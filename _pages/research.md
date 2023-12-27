@@ -10,8 +10,10 @@ permalink: /research
 ---
 
 ## Articles
-2. The Brauer Group of $\mathscr{Y}_0(2)$ *(with Niven Achenjang, Aashraya Jha, Caleb Ji and Rose Lopez)* [`arXiv`](https://arxiv.org/abs/2306.02237)
-1. Frobenius distributions of low dimensional abelian varieties over finite fields *(with Santiago Arango-Pineros and Soumya Sankar)* [`arXiv`](https://arxiv.org/abs/2311.18132)
+<ol reversed>
+<li> The Brauer Group of \\(\mathscr{Y}_0(2)\\) *(with Niven Achenjang, Aashraya Jha, Caleb Ji and Rose Lopez)* [`arXiv`](https://arxiv.org/abs/2306.02237) </li>
+<li> Frobenius distributions of low dimensional abelian varieties over finite fields *(with Santiago Arango-Pineros and Soumya Sankar)* [`arXiv`](https://arxiv.org/abs/2311.18132)</li>
+</ol>
 
 <script
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
