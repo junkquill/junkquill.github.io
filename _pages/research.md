@@ -9,6 +9,11 @@ custom-nav:
 permalink: /research
 ---
 
+<div class="callout">
+    <h2> Winter 2024 Travel </h2>
+I am giving a talk at the <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_progfull.html"><b>JMM in San Franciso</b></a>, attending the <a href="https://swc-math.github.io/aws/2024/index.html"><b>Arizona Winter School</b></a>, and visiting <a href="https://aimath.org/programs/squares/"><b>AIM</b></a>.
+</div>
+
 ### Articles
 
 <ol reversed>
