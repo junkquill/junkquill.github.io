@@ -8,17 +8,18 @@ index: true
 
 Hey! I'm a 5th year PhD candidate in mathematics at [UC Santa Cruz](https://www.math.ucsc.edu/index.html). My first name is pronounced as *dee-waang*. My advisor is [Martin Weissman](http://martyweissman.com/).
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
+<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="internal-link quarter-line-space">View my CV&nbsp;→</a>
 
 My research interests lie in arithmetic geometry, algebraic number theory, and undergraduate mathematics education.
-<a href="/research" class="internal-link quarter-line-space">View my research&nbsp;→</a>
+<a href="/research" class="internal-link quarter-line-space">Go to my research&nbsp;→</a>
 
 I am currently teaching a class on Proofs.
-<a href="/teaching" class="internal-link quarter-line-space">View my teaching&nbsp;→</a>
+<a href="/teaching" class="internal-link quarter-line-space">Go to my teaching&nbsp;→</a>
 
-I also keep busy by organising things in my department.
-<a href="/service" class="internal-link quarter-line-space">View my service&nbsp;→</a>
+<!-- I also keep busy by organising and helping organise things in my department.
+<a href="/service" class="internal-link quarter-line-space">View my service&nbsp;→</a> -->
 
-Here's my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a>
+<!-- Here's my<a href="https://drive.google.com/file/d/14Qb6_G7CEKUkhOUEwx68559Rs1BCa74S/view?usp=sharing" class="btn btn-default">Curriculum Vitae</a> -->
 
 <!-- Add a one line intro and link to your about page. 
 <a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
