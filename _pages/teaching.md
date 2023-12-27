@@ -46,8 +46,7 @@ permalink: /teaching
 
 <li> MATH 288B <b>Pedagogy of Mathematics (for GSIs)</b>, <small>Winter 2023</small></li>
 
-<li> MATH 19A <b>Calculus for Science, Engineering, and Mathematics</b>, <small>Fall 2022</small></li>
-<!-- MATH 19A Calculus for Sci., Eng., and Math., Fall 2022 -->
+<li> MATH 19A <b>Calculus for Sci., Eng., and Math.</b>, <small>Fall 2022</small></li>
 
 <li> MATH 11A <b>Calculus with Applications</b>, <small>Winter 2022</small></li>
 
