@@ -66,3 +66,15 @@ permalink: /teaching
 
 </ul>
 </details>
+
+### Shiv Nadar University
+
+<details>
+    <summary><b>Teaching Assistant</b></summary>
+
+<ul style="line-height:180%">
+
+<li> MAT260 <b>Linear Algebra</b>, <small>Fall 2015</small></li>
+
+</ul>
+</details>
