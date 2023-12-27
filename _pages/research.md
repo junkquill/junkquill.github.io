@@ -14,7 +14,8 @@ permalink: /research
 I am giving a talk at the <a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2024/2300_progfull.html"><b>JMM in San Franciso</b></a>, attending the <a href="https://swc-math.github.io/aws/2024/index.html"><b>Arizona Winter School</b></a>, and visiting <a href="https://aimath.org/programs/squares/"><b>AIM</b></a>.
 </div>
 
-### Articles
+<!-- ### Articles -->
+<h3 style="color:#f7665a">Articles</h3>
 
 <ol reversed>
 <li> The Brauer Group of \(\mathscr{Y}_0(2)\) <small><em>(with Niven Achenjang, Aashraya Jha, Caleb Ji, and Rose Lopez)</em></small><br>
@@ -24,7 +25,9 @@ I am giving a talk at the <a href="https://www.jointmathematicsmeetings.org/meet
     <a href="https://arxiv.org/abs/2306.02237"><code>arXiv:2306.02237</code></a> </li>
 </ol>
 
-### Theses
+<!-- ### Theses -->
+<h3 style="color:#f7665a">Theses</h3>
+
 * [Motivic Integrals of Orbifolds](https://www.hse.ru/en/edu/vkr/296285338)<br>
 <small>Master's Thesis, Higher School of Economics</small>
 
