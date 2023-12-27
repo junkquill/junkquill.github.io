@@ -34,8 +34,14 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
     <small> President (Sep 2022 - Sep 2023), General Secretary (Nov 2020 - Jun 2022)</small>
 
 <ul>
-    <li><b>Prelim Study Group</b></a> (an AWM Initiative)</li>
-    <li><b>EmpowHER Hour</b></a> (an AWM Initiative)</li>
+    <li><b>Prelim Study Group</b><small>(an AWM Initiative)</small>
+<ul>
+    <li><em>Study Leader for Algebra</em>, <small>Summer 2023</small></li>
+    <li><em>Study Leader for Analysis</em>, <small>Winter 2022, Summer 2022</small></li>
+    <li><em>Study Leader for Geometry</em>, <small>Winter 2022, Summer 2022</small></li>
+</ul>
+</li>
+    <li><b>EmpowHER Hour</b><small>(an AWM Initiative)</small></li>
 </ul>
 
 </li>
@@ -132,16 +138,50 @@ I am a <a href="https://tlc.ucsc.edu/programs/graduate-pedagogy-fellows/"><b>Gra
 <details>
     <summary><b style="color:#addfad">Mentorship</b></summary>
 
+<a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>
 <ul style="line-height:180%">
 
-<li> <b>Head TA</b>, Mathematics Department<br>
-    <small> Administrative (Jul 2023 - <em>present</em>), Mentorship & Support (Jul 2022 - <em>present</em>)</small></li>
+<li> Yahya Bashandy, <b>TBD</b>, <small>Winter 2024</small><br>
+    <small>with David Rubinstein</small></li>
 
-<li> <a href="https://sites.google.com/ucsc.edu/drp-math/"><b>Directed Reading Program</b></a>, <small>Aug 2021 - Mar 2024</small><br>
-    Organiser, <small>co-organised with David Rubinstein</small></li>
+<li> Chloe Watson, <b>TBD</b>, <small>Winter 2024</small></li>
 
-<li> <a href="https://sites.google.com/ucsc.edu/awm/"><b>Association for Women in Mathematics</b></a>, UCSC Chapter<br>
-    <small> President (Sep 2022 - Sep 2023), General Secretary (Nov 2020 - Jun 2022)</small></li>
+<li> Yahya Bashandy, <b>Group Cohomology & Hilbert's 90</b>, <small>Fall 2023</small><br>
+    <small>with David Rubinstein</small></li>
+
+<li> August Noe, <b>Model Theory</b>, <small>Fall 2023</small></li>
+
+<li> Morea Lee, <b>Kummer Theory</b>, <small>Spring 2023</small></li>
+
+<li> Brooke Zhang, <b>Combinatorial Designs</b>, <small>Fall 2022</small></li>
+
+<li> Kenneth Gee, <b>The Lambek Correspondance</b>, <small>Summer - Fall 2022</small><br>
+    <small>with David Rubinstein</small></li>
+
+<li> Miles Mitchell, <b>Affine Algebraic Groups</b>, <small>Spring 2022</small></li>
+
+<li> Morea Lee, <b>Galois Theory of Number Fields</b>, <small>Winter 2022</small></li>
+
+<li> Yijia Sun, <b>Error Correction Codes</b>, <small>Fall 2021</small></li>
+
+<li> Anna Yoon, <b>Elliptic Curve Cryptography</b>, <small>Winter 2020</small></li>
+
+</ul>
+
+<a href="https://sites.google.com/view/twoples/home"><b>Twoples</b></a>
+<ul style="line-height:180%">
+
+<li> Lillian Frey, <b>Linear Codes</b>, <small>Sep - Dec 2022</small><br>
+    <small>Binghamton University</small></li>
+
+<li> Lalit Sharma, <b>Class Groups</b>, <small>Feb - May 2022</small><br>
+    <small>University of Delhi</small></li>
+
+<li> Bowen Li, <b>Category Theory</b>, <small>Feb - May 2022</small><br>
+    <small>Carleton College</small></li>
+
+<li> Lalit Sharma, <b>Varieties</b>, <small>Sep - Dec 2021</small><br>
+    <small>University of Delhi</small></li>
 
 </ul>
 </details>
