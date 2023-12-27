@@ -17,7 +17,7 @@ permalink: /teaching
 ### UC Santa Cruz
 
 <details>
-    <summary><b style="color:#ffffbf">Instructor of Record</b></summary>
+    <summary><b style="color:#bfe3ff">Instructor of Record</b></summary>
 
 <ul style="line-height:150%">
 
