@@ -1,3 +1,0 @@
-ID	Lastname	Edfinity	Exam1	Exam2	Final	Project	Lab
-92425	Ambaliya		66						
-00000	MAX	100	100	100	100	100	100

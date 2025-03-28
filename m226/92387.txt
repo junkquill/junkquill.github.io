@@ -1,3 +1,0 @@
-ID	Lastname	Edfinity	Exam1	Exam2	Final	Project	Lab
-92387	Abracosa		36				
-00000	MAX	100	100	100	100	100	100
