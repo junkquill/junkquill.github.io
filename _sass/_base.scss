@@ -1,6 +1,3 @@
-@use "sass:color";
-@use "_vars" as *;
-
 /**
  * Basic styling
  */
@@ -19,7 +16,7 @@ body {
   font-family: $base-font-family;
   font-size: $base-font-size;
   line-height: $base-line-height;
-  color: color.adjust($text-color, $lightness: -10%);
+  color: $text-color;
   background-color: $background-color;
 
   text-rendering: optimizeLegibility;
@@ -37,7 +34,6 @@ body {
   margin: 0;
   display: flex;
   flex-direction: column;
-  text-wrap: pretty;
 }
 
 
@@ -61,7 +57,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: calc($spacing-unit / 2);
+  margin-bottom: $spacing-unit / 2;
 }
 
 
@@ -79,6 +75,8 @@ img {
  * Hyphenation and paragraph styles
  */
 p {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
   hyphens: auto;
 }
 
@@ -142,7 +140,7 @@ a {
 blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-lightest;
-  padding-left: calc($spacing-unit / 2);
+  padding-left: $spacing-unit / 2;
   font-size: 18px;
   letter-spacing: -1px;
   font-style: italic;

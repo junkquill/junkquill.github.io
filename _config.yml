@@ -1,16 +1,20 @@
 # Site settings
-title: Dominik Moritz
-email: domoritz@cmu.edu
+title: Juliette Bruce
+email: juliette.bruce@dartmouth.edu
 description: > # this means to ignore newlines until "baseurl:"
-   Professor at Carnegie Mellon University and Researcher at Apple. I create interactive data visualization and analysis tools. PhD from University of Washington.
+   Assistant professor in the Department of Mathematics at Dartmouth College. I combine homological
+   and combinatorial techniques to study the geometry of solutions to systems of polynomial equations.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.domoritz.de" # the base hostname & protocol for your site
-production_url: "https://www.domoritz.de"
-github_username: domoritz
+url: "https://www.juliettebruce.xyz" # the base hostname & protocol for your site
+production_url: "https://www.juliettebruce.xyz"
+github_username: julietteBruce
 permalink: /blog/:year/:month/:title.html
 
+# Google Analytics
+google_analytics: G-8EM71CZE11
+
 twitter:
-  username: domoritz
+  username: julietteBruce
 
 sass:
   style: compressed

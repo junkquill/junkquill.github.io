@@ -1,5 +1,3 @@
-@use "_vars" as *;
-
 .talks {
   h3 {
     font-size: 1.1em;
@@ -25,17 +23,12 @@
       font-weight: 300;
       font-size: 0.8em;
 
-      // avoid the extra whitespace after the link text
-      display: inline-block;
-
       a {
         &:first-child {
           margin-left: 2em;
         }
 
-        & {
-          margin-left: 1em;
-        }
+        margin-left: 1em;
       }
     }
   }
